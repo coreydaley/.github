@@ -31,4 +31,11 @@ I build tools at the intersection of AI and developer productivity: multi-model 
 
 ---
 
+## Latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 [coreydaley.dev](https://coreydaley.dev) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/coreydaley-dev) &nbsp;·&nbsp; [corey@coreydaley.dev](mailto:corey@coreydaley.dev)
