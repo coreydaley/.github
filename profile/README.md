@@ -14,7 +14,7 @@ I build tools at the intersection of AI and developer productivity: multi-model 
 
 ## Tech stack
 
-**Languages:** JavaScript · Python · Kotlin
+**Languages:** Go · Python · Kotlin · JavaScript
 
 **AI & Automation:** Claude · GPT · Gemini · LLM Orchestration · Prompt Engineering · GitHub Actions
 
