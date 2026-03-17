@@ -22,6 +22,7 @@ I build tools at the intersection of AI and developer productivity: multi-model 
 
 | Project | Description |
 |---------|-------------|
+| [Polyphon](https://polyphon.ai) | Desktop app for simultaneous multi-LLM conversations — one chat, many voices |
 | [agent-config](https://github.com/coreydaley/agent-config) | Centralized AI agent configuration across Claude, Codex, and Copilot |
 | [obsidian-ai-agent-sidebar-plugin](https://github.com/coreydaley/obsidian-ai-agent-sidebar-plugin) | Open-source Obsidian sidebar plugin for custom AI services |
 | [attractor](https://github.com/coreydaley/attractor) | DOT-based AI pipeline orchestration engine using chaos theory principles |
