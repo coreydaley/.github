@@ -1,0 +1,22 @@
+name: Update profile README with latest blog posts
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://coreydaley.dev/rss.xml"
+          max_post_count: 5
+          readme_path: profile/README.md
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
