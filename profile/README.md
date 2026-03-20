@@ -34,11 +34,11 @@ I build tools at the intersection of AI and developer productivity: multi-model 
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Free Doesn&#39;t Mean Open: How AI Is Unbundling the Open Source Bargain](https://coreydaley.dev/posts/2026/03/is-open-source-dead-in-the-age-of-ai/)
 - [I Built a Tool So AI Models Could Talk to Each Other](https://coreydaley.dev/posts/2026/03/launching-polyphon-orchestrating-multiple-ai-voices/)
 - [The Blog That Builds Itself: AI Automation Behind the Scenes](https://coreydaley.dev/posts/2026/03/building-a-blog-automation-pipeline-with-ai/)
 - [The Rise of the Agent Wrangler](https://coreydaley.dev/posts/2026/03/the-rise-of-the-agent-wrangler/)
 - [Why I Left Notion and Built My Own AI Agent Plugin for Obsidian](https://coreydaley.dev/posts/2026/03/obsidian-ai-agent-sidebar-plugin/)
-- [When Your First Version Fails: Iterating on agent-config with AI](https://coreydaley.dev/posts/2026/03/agent-config-v2-failing-forward-with-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
