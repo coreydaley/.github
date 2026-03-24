@@ -34,11 +34,11 @@ I build tools at the intersection of AI and developer productivity: multi-model 
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Polyphon at v0.8.0: The End of the Prototype Phase](https://coreydaley.dev/posts/2026/03/polyphon-from-alpha-to-v0-8/)
 - [Polyphon&#39;s MCP Server Makes Your AI Ensemble a Native Agent Tool](https://coreydaley.dev/posts/2026/03/polyphon-mcp-server/)
 - [Free Doesn&#39;t Mean Open: How AI Is Unbundling the Open Source Bargain](https://coreydaley.dev/posts/2026/03/is-open-source-dead-in-the-age-of-ai/)
 - [I Built a Tool So AI Models Could Talk to Each Other](https://coreydaley.dev/posts/2026/03/launching-polyphon-orchestrating-multiple-ai-voices/)
 - [The Blog That Builds Itself: AI Automation Behind the Scenes](https://coreydaley.dev/posts/2026/03/building-a-blog-automation-pipeline-with-ai/)
-- [The Rise of the Agent Wrangler](https://coreydaley.dev/posts/2026/03/the-rise-of-the-agent-wrangler/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
