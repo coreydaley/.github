@@ -14,17 +14,17 @@ I build tools at the intersection of AI and developer productivity: multi-model 
 
 ## Tech stack
 
-**Languages:** Go · Python · Kotlin · JavaScript
+**Languages:** Go · Python · Kotlin · TypeScript · JavaScript
 
 **AI & Automation:** Claude · GPT · Gemini · LLM Orchestration · Prompt Engineering · GitHub Actions
 
-**Tools:** Hugo · Electron · Obsidian · GraphViz · pre-commit · Makefile
+**Tools:** Hugo · Electron · React · Obsidian · GraphViz · pre-commit · Makefile
 
 ## Projects
 
 | Project | Description |
 | --------- | ------------- |
-| [Polyphon](https://polyphon.ai) | Desktop app for simultaneous multi-LLM conversations — one chat, many voices |
+| [Polyphon](https://polyphon.ai) | Desktop app for simultaneous multi-LLM conversations — one chat, many voices · [github](https://github.com/polyphon-ai/polyphon) |
 | [agent-config](https://github.com/coreydaley/agent-config) | Centralized AI agent configuration across Claude, Codex, and Copilot |
 | [obsidian-ai-agent-sidebar-plugin](https://github.com/coreydaley/obsidian-ai-agent-sidebar-plugin) | Open-source Obsidian sidebar plugin for custom AI services |
 | [attractor](https://github.com/coreydaley/attractor) | DOT-based AI pipeline orchestration engine using chaos theory principles |
