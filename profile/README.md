@@ -6,6 +6,14 @@ I build tools at the intersection of AI and developer productivity: multi-model 
 
 ---
 
+## AI/ML Learning Roadmap
+
+I'm on a deliberate 12-month journey to expand from cloud-native software engineering into AI/ML engineering. I've published my full learning plan — including courses, portfolio strategy, hardware/cloud recommendations, software setup, and more — as an open resource for anyone on a similar path.
+
+📚 **[View the AI/ML Learning Roadmap](https://github.com/coreydaley/.github/blob/main/AI-ML-Learning-Roadmap.md)**
+
+---
+
 ## What I'm building
 
 - Agentic engineering systems that coordinate Claude, GPT, and Gemini
@@ -28,14 +36,6 @@ I build tools at the intersection of AI and developer productivity: multi-model 
 | [agent-config](https://github.com/coreydaley/agent-config) | Personal Claude Code configuration — instructions, skills, commands, and subagents, version-controlled and symlinked into ~/.claude/ |
 | [obsidian-ai-agent-sidebar-plugin](https://github.com/coreydaley/obsidian-ai-agent-sidebar-plugin) | Open-source Obsidian sidebar plugin for custom AI services |
 | [attractor](https://github.com/coreydaley/attractor) | DOT-based AI pipeline orchestration engine using chaos theory principles |
-
----
-
-## AI/ML Learning Roadmap
-
-I'm on a deliberate 12-month journey to expand from cloud-native software engineering into AI/ML engineering. I've published my full learning plan — including courses, portfolio strategy, hardware/cloud recommendations, software setup, and more — as an open resource for anyone on a similar path.
-
-📚 **[View the AI/ML Learning Roadmap](https://github.com/coreydaley/.github/blob/main/AI-ML-Learning-Roadmap.md)**
 
 ---
 
