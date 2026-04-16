@@ -44,3 +44,11 @@ I build tools at the intersection of AI and developer productivity: multi-model 
 ---
 
 [coreydaley.dev](https://coreydaley.dev) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/coreydaley-dev) &nbsp;·&nbsp; [corey@coreydaley.dev](mailto:corey@coreydaley.dev)
+
+---
+
+## Public keys
+
+- [SSH (ed25519)](https://github.com/coreydaley/.github/raw/main/keys/id_ed25519.pub)
+- [SSH (rsa)](https://github.com/coreydaley/.github/raw/main/keys/id_rsa.pub)
+- [GPG public key](https://github.com/coreydaley/.github/raw/main/keys/corey.asc)
