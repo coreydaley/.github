@@ -36,6 +36,7 @@ I'm on a deliberate 12-month journey to expand from cloud-native software engine
 | [agent-config](https://github.com/coreydaley/agent-config) | Personal Claude Code configuration — instructions, skills, commands, and subagents, version-controlled and symlinked into ~/.claude/ |
 | [obsidian-ai-agent-sidebar-plugin](https://github.com/coreydaley/obsidian-ai-agent-sidebar-plugin) | Open-source Obsidian sidebar plugin for custom AI services |
 | [attractor](https://github.com/coreydaley/attractor) | DOT-based AI pipeline orchestration engine using chaos theory principles |
+| [messagepit](https://github.com/coreydaley/messagepit) | Email and SMS testing tool for developers — fork of Mailpit with Twilio-compatible SMS ingest |
 
 ---
 
