@@ -43,11 +43,11 @@ I'm on a deliberate 12-month journey to expand from cloud-native software engine
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Reviewer Should Not Be the Author: Separation of Duties for Multi-Agent Code Review](https://coreydaley.dev/posts/2026/05/the-reviewer-should-not-be-the-author/)
 - [Dot-Graph State Machines: Making Workflow Drift Structurally Impossible](https://coreydaley.dev/posts/2026/05/dot-graph-state-machines/)
 - [Catching Twilio SMS Locally: MessagePit Extends Mailpit](https://coreydaley.dev/posts/2026/04/messagepit-catching-twilio-sms-locally/)
 - [Your HTML Is Lying to AI Agents](https://coreydaley.dev/posts/2026/04/your-html-is-lying-to-ai-agents/)
 - [A 12-Month AI/ML Roadmap for Engineers Who Feel Behind](https://coreydaley.dev/posts/2026/04/12-month-ai-ml-learning-roadmap/)
-- [What Sprint Planning Catches Before the First Commit](https://coreydaley.dev/posts/2026/04/what-sprint-planning-catches-before-first-commit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
