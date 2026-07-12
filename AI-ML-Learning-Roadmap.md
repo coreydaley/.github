@@ -54,6 +54,9 @@ Depending on usage, you may eventually hit limits on the standard $20/month plan
 - [x] Teaching AI Fluency
 - [ ] Claude with Amazon Bedrock
 - [ ] Claude with Google Cloud's Vertex AI
+- [x] Claude Platform 101
+- [ ] AI Fluency for Small Businesses
+- [ ] AI Fluency for Builders
 
 **Other Certificates**
 - [x] Real-World AI for Everyone — Advancing Women in Tech ([Coursera](https://www.coursera.org/specializations/real-world-ai-for-everyone), sponsored by Anthropic)
