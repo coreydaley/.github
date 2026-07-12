@@ -2,7 +2,9 @@
 
 **Software Engineer & AI Enthusiast** — Elizabethtown, KY
 
-I build tools at the intersection of AI and developer productivity: multi-model orchestration systems, automation pipelines, and open-source plugins that make complex workflows simpler.
+*Just the human in the loop.*
+
+I build tools at the intersection of AI and developer productivity: agentic engineering systems, automation pipelines, and open-source developer tools that make complex workflows simpler.
 
 ---
 
@@ -18,7 +20,7 @@ I'm on a deliberate 12-month journey to expand from cloud-native software engine
 
 - Agentic engineering systems that coordinate Claude, GPT, and Gemini
 - Developer tooling for AI-assisted workflows and prompt engineering
-- Open-source Obsidian plugins and desktop automation apps
+- Native macOS apps and open-source developer tools
 
 ## Tech stack
 
@@ -32,10 +34,8 @@ I'm on a deliberate 12-month journey to expand from cloud-native software engine
 
 | Project | Description |
 | --------- | ------------- |
-| [Polyphon](https://polyphon.ai) | Desktop app for simultaneous multi-LLM conversations — one chat, many voices · [github](https://github.com/polyphon-ai/polyphon) |
-| [agent-config](https://github.com/coreydaley/agent-config) | Personal Claude Code configuration — instructions, skills, commands, and subagents, version-controlled and symlinked into ~/.claude/ |
-| [obsidian-ai-agent-sidebar-plugin](https://github.com/coreydaley/obsidian-ai-agent-sidebar-plugin) | Open-source Obsidian sidebar plugin for custom AI services |
-| [attractor](https://github.com/coreydaley/attractor) | DOT-based AI pipeline orchestration engine using chaos theory principles |
+| [Purrchiver](https://purrchiver.app) | Modern Apple-native archive tool for macOS — clean, no ads, no subscriptions · on the Mac App Store |
+| [Secret Store](https://secretstore.app) | Arbitrary small secrets in Apple's E2E iCloud Keychain — zero vendor crypto, no account, no server, no subscription · macOS + iOS |
 | [messagepit](https://github.com/coreydaley/messagepit) | Email and SMS testing tool for developers — fork of Mailpit with Twilio-compatible SMS ingest |
 
 ---
