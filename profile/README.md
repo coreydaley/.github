@@ -43,11 +43,11 @@ I'm on a deliberate 12-month journey to expand from cloud-native software engine
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Reviewer Should Not Be the Author: Separation of Duties for Multi-Agent Code Review](https://coreydaley.dev/posts/2026/05/the-reviewer-should-not-be-the-author/)
-- [Dot-Graph State Machines: Making Workflow Drift Structurally Impossible](https://coreydaley.dev/posts/2026/05/dot-graph-state-machines/)
-- [Catching Twilio SMS Locally: MessagePit Extends Mailpit](https://coreydaley.dev/posts/2026/04/messagepit-catching-twilio-sms-locally/)
-- [Your HTML Is Lying to AI Agents](https://coreydaley.dev/posts/2026/04/your-html-is-lying-to-ai-agents/)
-- [A 12-Month AI/ML Roadmap for Engineers Who Feel Behind](https://coreydaley.dev/posts/2026/04/12-month-ai-ml-learning-roadmap/)
+- [How Much Review Is Too Much Review?](https://coreydaley.dev/posts/2026/07/how-much-review-is-too-much/)
+- [Apple&#39;s Device Mockups Are All the Wrong Size](https://coreydaley.dev/posts/2026/06/apple-device-mockups-true-scale/)
+- [Buy AppleCare for a Family Member&#39;s Device Without Handing Them Your Credit Card](https://coreydaley.dev/posts/2026/06/applecare-for-someone-elses-device/)
+- [Two Gates Guard Unattended macOS UI Tests](https://coreydaley.dev/posts/2026/06/unattended-xcuitest-self-hosted-mdm/)
+- [Your Smartest AI Is a Lousy Junior Engineer](https://coreydaley.dev/posts/2026/06/your-smartest-ai-is-a-lousy-junior/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
