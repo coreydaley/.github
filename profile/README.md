@@ -1,63 +1,51 @@
+<a href="https://coreydaley.dev"><img src="https://raw.githubusercontent.com/coreydaley/.github/main/profile/banner.png" alt="coreydaley.dev — Platform engineering · Supply-chain security · AI-assisted development" width="100%"></a>
+
 # Hi, I'm Corey Daley
 
-**Software Engineer & AI Enthusiast** — Elizabethtown, KY
+Staff Software Engineer at [Chainguard](https://www.chainguard.dev), working on cloud-native infrastructure and supply-chain security. 20+ years building platforms, including a decade-plus on OpenShift. These days I lead AI agents to ship real software, and I write about what that actually takes.
 
-*Just the human in the loop.*
+## What I work on
 
-I build tools at the intersection of AI and developer productivity: agentic engineering systems, automation pipelines, and open-source developer tools that make complex workflows simpler.
+- **Platforms:** containers, Kubernetes, and the messy parts of running them at scale
+- **Supply-chain security:** signing, attestation, SBOMs, the whole pipeline
+- **Agentic development:** review pipelines, multi-agent planning, and the guardrails that keep them honest
+- **Small apps for Apple platforms:** local-first, no ads, no tracking, no sign-ups
 
----
+## Apps
 
-## AI/ML Learning Roadmap
+| | |
+| --- | --- |
+| [**Purrchiver**](https://coreydaley.dev/apps/purrchiver/) | The clean Mac archive utility: open, create, and edit RAR, Zip, 7z and more, including encrypted archives. Sandboxed, no ads, no subscription. On the Mac App Store. |
+| [**Secret Store**](https://coreydaley.dev/apps/secretstore/) | Small secrets (recovery codes, license keys, that one Wi-Fi password) in Apple's end-to-end encrypted iCloud Keychain. No vendor crypto, no account, no server. macOS + iOS. |
 
-I'm on a deliberate 12-month journey to expand from cloud-native software engineering into AI/ML engineering. I've published my full learning plan — including courses, portfolio strategy, hardware/cloud recommendations, software setup, and more — as an open resource for anyone on a similar path.
+## Open source
 
-📚 **[View the AI/ML Learning Roadmap](https://github.com/coreydaley/.github/blob/main/AI-ML-Learning-Roadmap.md)**
+| | |
+| --- | --- |
+| [**MessagePit**](https://github.com/coreydaley/messagepit) | Email and SMS testing for developers: a Mailpit fork with a Twilio-compatible SMS endpoint, a SendGrid stub, and webhook capture. |
+| [**agent-config**](https://github.com/coreydaley/agent-config) | My Claude Code setup: dot-graph skills, a feature-planning workflow, multi-agent audits, and hooks that keep a public config free of secrets. |
 
----
+Archived: [Polyphon](https://coreydaley.dev/projects/polyphon/) (multi-model AI chat) and [Attractor](https://coreydaley.dev/projects/attractor/) (DOT-graph AI pipelines).
 
-## What I'm building
-
-- Agentic engineering systems that coordinate Claude, GPT, and Gemini
-- Developer tooling for AI-assisted workflows and prompt engineering
-- Native macOS apps and open-source developer tools
-
-## Tech stack
-
-**Languages:** Go · Python · Kotlin · TypeScript · JavaScript
-
-**AI & Automation:** Claude · GPT · Gemini · LLM Orchestration · Prompt Engineering · GitHub Actions
-
-**Tools:** Hugo · Electron · React · Obsidian · GraphViz · pre-commit · Makefile
-
-## Projects
-
-| Project | Description |
-| --------- | ------------- |
-| [Purrchiver](https://purrchiver.app) | Modern Apple-native archive tool for macOS — clean, no ads, no subscriptions · on the Mac App Store |
-| [Secret Store](https://secretstore.app) | Arbitrary small secrets in Apple's E2E iCloud Keychain — zero vendor crypto, no account, no server, no subscription · macOS + iOS |
-| [messagepit](https://github.com/coreydaley/messagepit) | Email and SMS testing tool for developers — fork of Mailpit with Twilio-compatible SMS ingest |
-
----
-
-## Latest blog posts
+## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
-- [How Much Review Is Too Much Review?](https://coreydaley.dev/posts/2026/07/how-much-review-is-too-much/)
-- [Apple&#39;s Device Mockups Are All the Wrong Size](https://coreydaley.dev/posts/2026/06/apple-device-mockups-true-scale/)
-- [Buy AppleCare for a Family Member&#39;s Device Without Handing Them Your Credit Card](https://coreydaley.dev/posts/2026/06/applecare-for-someone-elses-device/)
-- [Two Gates Guard Unattended macOS UI Tests](https://coreydaley.dev/posts/2026/06/unattended-xcuitest-self-hosted-mdm/)
-- [Your Smartest AI Is a Lousy Junior Engineer](https://coreydaley.dev/posts/2026/06/your-smartest-ai-is-a-lousy-junior/)
+- [The only profile you actually own](https://coreydaley.dev/posts/2026/10/the-only-profile-you-actually-own/)
+- [My app said it encrypted your data. It didn't.](https://coreydaley.dev/posts/2026/10/polyphon-encryption-post-mortem/)
+- [Making my Claude config public](https://coreydaley.dev/posts/2026/10/making-my-claude-config-public/)
+- [How iCloud Keychain stores and syncs an app's secrets](https://coreydaley.dev/posts/2026/10/how-icloud-keychain-syncs-app-secrets/)
+- [Reading a DMG in the App Sandbox without mounting it](https://coreydaley.dev/posts/2026/10/read-dmg-without-mounting/)
 <!-- BLOG-POST-LIST:END -->
 
----
+**Stack:** Go · Python · Swift · Kubernetes · OpenShift · Containers · Claude Code
 
-[coreydaley.dev](https://coreydaley.dev) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/coreydaley-dev) &nbsp;·&nbsp; [corey@coreydaley.dev](mailto:corey@coreydaley.dev)
+[coreydaley.dev](https://coreydaley.dev) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/coreydaley-dev/) &nbsp;·&nbsp; [corey@coreydaley.dev](mailto:corey@coreydaley.dev)
 
----
-
-## Public keys
+<details>
+<summary>Public keys</summary>
 
 - [SSH (ed25519)](https://github.com/coreydaley/.github/raw/main/keys/id_ed25519.pub)
 - [SSH (rsa)](https://github.com/coreydaley/.github/raw/main/keys/id_rsa.pub)
 - [GPG public key](https://github.com/coreydaley/.github/raw/main/keys/corey.asc)
+
+</details>
