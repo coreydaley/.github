@@ -31,9 +31,9 @@ Archived: [Polyphon](https://coreydaley.dev/projects/polyphon/) (multi-model AI 
 
 <!-- BLOG-POST-LIST:START -->
 - [The only profile you actually own](https://coreydaley.dev/posts/2026/10/the-only-profile-you-actually-own/)
-- [My app said it encrypted your data. It didn't.](https://coreydaley.dev/posts/2026/10/polyphon-encryption-post-mortem/)
+- [My app said it encrypted your data. It didn&#39;t.](https://coreydaley.dev/posts/2026/10/polyphon-encryption-post-mortem/)
 - [Making my Claude config public](https://coreydaley.dev/posts/2026/10/making-my-claude-config-public/)
-- [How iCloud Keychain stores and syncs an app's secrets](https://coreydaley.dev/posts/2026/10/how-icloud-keychain-syncs-app-secrets/)
+- [How iCloud Keychain stores and syncs an app&#39;s secrets](https://coreydaley.dev/posts/2026/10/how-icloud-keychain-syncs-app-secrets/)
 - [Reading a DMG in the App Sandbox without mounting it](https://coreydaley.dev/posts/2026/10/read-dmg-without-mounting/)
 <!-- BLOG-POST-LIST:END -->
 
