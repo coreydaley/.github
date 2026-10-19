@@ -2,7 +2,7 @@ name: Update profile README with latest blog posts
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # every 6 hours
+    - cron: '23 */6 * * *'  # every 6 hours, off the top of the hour
   workflow_dispatch:
 
 jobs:
