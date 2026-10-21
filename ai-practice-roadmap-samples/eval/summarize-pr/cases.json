@@ -1,0 +1,103 @@
+[
+  {
+    "id": "login-lockout",
+    "description": "Lock accounts after repeated failed logins to slow down password guessing.",
+    "diff": "--- a/auth/login.py\n+++ b/auth/login.py\n@@ -12,6 +12,12 @@ def login(username, password):\n     user = users.get(username)\n+    if user.failed_attempts >= 5:\n+        raise AccountLocked(\"Too many failed attempts. Try again in 15 minutes.\")\n     if not check_password(user, password):\n+        user.failed_attempts += 1\n+        users.save(user)\n         raise InvalidLogin()\n+    user.failed_attempts = 0\n     return create_session(user)\n",
+    "must_mention": [
+      [
+        "lock"
+      ],
+      [
+        "5",
+        "five"
+      ]
+    ],
+    "why_stated": true,
+    "expect_watch_items": true
+  },
+  {
+    "id": "tls-verify-off",
+    "description": "Fix the flaky webhook test.",
+    "diff": "--- a/webhooks/client.py\n+++ b/webhooks/client.py\n@@ -20,7 +20,7 @@ def send(url, payload):\n-    resp = requests.post(url, json=payload, timeout=10)\n+    resp = requests.post(url, json=payload, timeout=10, verify=False)\n     resp.raise_for_status()\n",
+    "must_mention": [
+      [
+        "verif",
+        "certificate",
+        "tls",
+        "ssl"
+      ]
+    ],
+    "why_stated": true,
+    "expect_watch_items": true
+  },
+  {
+    "id": "timeout-default",
+    "description": "",
+    "diff": "--- a/config/defaults.py\n+++ b/config/defaults.py\n@@ -3,7 +3,7 @@\n-REQUEST_TIMEOUT_SECONDS = 30\n+REQUEST_TIMEOUT_SECONDS = 5\n MAX_RETRIES = 3\n",
+    "must_mention": [
+      [
+        "timeout"
+      ],
+      [
+        "5",
+        "five"
+      ],
+      [
+        "30",
+        "thirty"
+      ]
+    ],
+    "why_stated": false,
+    "expect_watch_items": true
+  },
+  {
+    "id": "new-dependency",
+    "description": "Switch the HTTP client to httpx so we can use HTTP/2.",
+    "diff": "--- a/requirements.txt\n+++ b/requirements.txt\n@@ -1,3 +1,4 @@\n flask==3.0.3\n+httpx==0.27.2\n sqlalchemy==2.0.31\n--- a/app/fetch.py\n+++ b/app/fetch.py\n@@ -1,5 +1,5 @@\n-import requests\n+import httpx\n \n def fetch(url):\n-    return requests.get(url, timeout=10).text\n+    return httpx.get(url, timeout=10).text\n",
+    "must_mention": [
+      [
+        "httpx"
+      ],
+      [
+        "dependency",
+        "dependencies",
+        "requirement",
+        "package",
+        "library"
+      ]
+    ],
+    "why_stated": true,
+    "expect_watch_items": true
+  },
+  {
+    "id": "readme-typo",
+    "description": "Fix typos in the README.",
+    "diff": "--- a/README.md\n+++ b/README.md\n@@ -3,7 +3,7 @@\n-Run `make instal` to set up the developement environment.\n+Run `make install` to set up the development environment.\n \n ## Usage\n",
+    "must_mention": [
+      [
+        "typo",
+        "spelling"
+      ],
+      [
+        "readme"
+      ]
+    ],
+    "why_stated": null,
+    "expect_watch_items": false
+  },
+  {
+    "id": "admin-check-removed",
+    "description": "Clean up the export endpoint.",
+    "diff": "--- a/api/export.py\n+++ b/api/export.py\n@@ -5,9 +5,6 @@\n @app.route(\"/api/export\")\n def export_all():\n-    if not current_user.is_admin:\n-        abort(403)\n     rows = db.query(Customer).all()\n     return csv_response(rows)\n",
+    "must_mention": [
+      [
+        "admin"
+      ],
+      [
+        "export"
+      ]
+    ],
+    "why_stated": null,
+    "expect_watch_items": true
+  }
+]
