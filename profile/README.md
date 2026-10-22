@@ -30,11 +30,11 @@ Archived: [Polyphon](https://coreydaley.dev/projects/polyphon/) (multi-model AI 
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [I planned to learn AI by training models. I&#39;m building with them instead.](https://coreydaley.dev/posts/2026/10/learning-ai-by-building-not-training/)
 - [My job queue could starve its biggest job](https://coreydaley.dev/posts/2026/10/job-queue-lane-starvation/)
 - [The only profile you actually own](https://coreydaley.dev/posts/2026/10/the-only-profile-you-actually-own/)
 - [My app said it encrypted your data. It didn&#39;t.](https://coreydaley.dev/posts/2026/10/polyphon-encryption-post-mortem/)
 - [Making my Claude config public](https://coreydaley.dev/posts/2026/10/making-my-claude-config-public/)
-- [How iCloud Keychain stores and syncs an app&#39;s secrets](https://coreydaley.dev/posts/2026/10/how-icloud-keychain-syncs-app-secrets/)
 <!-- BLOG-POST-LIST:END -->
 
 **Stack:** Go · Python · Swift · Kubernetes · OpenShift · Containers · Claude Code
