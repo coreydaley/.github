@@ -30,11 +30,11 @@ Archived: [Polyphon](https://coreydaley.dev/projects/polyphon/) (multi-model AI 
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Archive a folder automatically with Purrchiver and Shortcuts](https://coreydaley.dev/posts/2026/10/archive-a-folder-automatically-with-shortcuts/)
 - [Two bugs in my crash reporter, including one that crashed the app](https://coreydaley.dev/posts/2026/10/crash-reporter-grouping-and-mailto-trimming/)
 - [Comparison pages without trash talk](https://coreydaley.dev/posts/2026/10/comparison-pages-without-trash-talk/)
 - [I planned to learn AI by training models. I&#39;m building with them instead.](https://coreydaley.dev/posts/2026/10/learning-ai-by-building-not-training/)
 - [My job queue could starve its biggest job](https://coreydaley.dev/posts/2026/10/job-queue-lane-starvation/)
-- [The only profile you actually own](https://coreydaley.dev/posts/2026/10/the-only-profile-you-actually-own/)
 <!-- BLOG-POST-LIST:END -->
 
 **Stack:** Go · Python · Swift · Kubernetes · OpenShift · Containers · Claude Code
