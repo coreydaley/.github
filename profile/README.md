@@ -30,11 +30,11 @@ Archived: [Polyphon](https://coreydaley.dev/projects/polyphon/) (multi-model AI 
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [The agent wrangler, seven months later: the industry was already there](https://coreydaley.dev/posts/2026/10/agent-wrangler-seven-months-later/)
 - [Letting Claude Code make my App Store screenshots](https://coreydaley.dev/posts/2026/10/claude-code-made-my-app-store-screenshots/)
 - [Asking for an App Store rating once, at a neutral moment](https://coreydaley.dev/posts/2026/10/asking-for-an-app-store-rating/)
 - [Archive a folder automatically with Purrchiver and Shortcuts](https://coreydaley.dev/posts/2026/10/archive-a-folder-automatically-with-shortcuts/)
 - [Two bugs in my crash reporter, including one that crashed the app](https://coreydaley.dev/posts/2026/10/crash-reporter-grouping-and-mailto-trimming/)
-- [Comparison pages without trash talk](https://coreydaley.dev/posts/2026/10/comparison-pages-without-trash-talk/)
 <!-- BLOG-POST-LIST:END -->
 
 **Stack:** Go · Python · Swift · Kubernetes · OpenShift · Containers · Claude Code
