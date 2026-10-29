@@ -30,11 +30,11 @@ Archived: [Polyphon](https://coreydaley.dev/projects/polyphon/) (multi-model AI 
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I moved my Swift packages out of a submodule and back into the app](https://coreydaley.dev/posts/2026/10/vendoring-swift-packages-instead-of-a-submodule/)
-- [Small releases more often, or one big one?](https://coreydaley.dev/posts/2026/10/small-releases-or-big-ones/)
-- [The agent wrangler, seven months later: the industry was already there](https://coreydaley.dev/posts/2026/10/agent-wrangler-seven-months-later/)
-- [Letting Claude Code make my App Store screenshots](https://coreydaley.dev/posts/2026/10/claude-code-made-my-app-store-screenshots/)
-- [Asking for an App Store rating once, at a neutral moment](https://coreydaley.dev/posts/2026/10/asking-for-an-app-store-rating/)
+- [How this site is made now, seven months later](https://coreydaley.dev/posts/2026/10/how-this-site-is-made-now/)
+- [Apple&#39;s on-device model is better from Swift than from Shortcuts](https://coreydaley.dev/posts/2026/10/foundation-models-from-swift/)
+- [My Mac asked if &quot;applet&quot; could see my Desktop. I said no and watched what happened](https://coreydaley.dev/posts/2026/10/mac-permission-prompts-applet/)
+- [I timed Shortcuts automations on the Mac: fast, quiet, and one dud](https://coreydaley.dev/posts/2026/10/mac-shortcuts-automations-tested/)
+- [I built the same Mac automation in Shortcuts, AppleScript and Automator](https://coreydaley.dev/posts/2026/10/same-mac-automation-three-ways/)
 <!-- BLOG-POST-LIST:END -->
 
 **Stack:** Go · Python · Swift · Kubernetes · OpenShift · Containers · Claude Code
