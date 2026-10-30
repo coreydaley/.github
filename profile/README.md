@@ -30,11 +30,11 @@ Archived: [Polyphon](https://coreydaley.dev/projects/polyphon/) (multi-model AI 
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [libarchive never checked stored RAR files against their CRC](https://coreydaley.dev/posts/2026/10/libarchive-rar-stored-crc/)
 - [Purrchiver 1.1 is here: broken archives, rescued for free](https://coreydaley.dev/posts/2026/10/purrchiver-1-1/)
 - [How this site is made now, seven months later](https://coreydaley.dev/posts/2026/10/how-this-site-is-made-now/)
 - [Apple&#39;s on-device model is better from Swift than from Shortcuts](https://coreydaley.dev/posts/2026/10/foundation-models-from-swift/)
 - [My Mac asked if &quot;applet&quot; could see my Desktop. I said no and watched what happened](https://coreydaley.dev/posts/2026/10/mac-permission-prompts-applet/)
-- [I timed Shortcuts automations on the Mac: fast, quiet, and one dud](https://coreydaley.dev/posts/2026/10/mac-shortcuts-automations-tested/)
 <!-- BLOG-POST-LIST:END -->
 
 **Stack:** Go · Python · Swift · Kubernetes · OpenShift · Containers · Claude Code
