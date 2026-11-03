@@ -30,11 +30,11 @@ Archived: [Polyphon](https://coreydaley.dev/projects/polyphon/) (multi-model AI 
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [I asked an agent to make a cartoon in Moho](https://coreydaley.dev/posts/2026/11/agent-animated-moho-cartoon/)
+- [I chose Electron for cross-platform and shipped Mac-only](https://coreydaley.dev/posts/2026/11/native-apple-apps-vs-electron/)
 - [Asking an archive questions without the archiver doing AI](https://coreydaley.dev/posts/2026/11/ask-an-archive-without-the-archiver-doing-ai/)
 - [Inside ArchiveKit: no format registry, just the compiler](https://coreydaley.dev/posts/2026/10/how-archivekit-is-built/)
 - [libarchive never checked stored RAR files against their CRC](https://coreydaley.dev/posts/2026/10/libarchive-rar-stored-crc/)
-- [Purrchiver 1.1 is here: broken archives, rescued for free](https://coreydaley.dev/posts/2026/10/purrchiver-1-1/)
-- [How this site is made now, seven months later](https://coreydaley.dev/posts/2026/10/how-this-site-is-made-now/)
 <!-- BLOG-POST-LIST:END -->
 
 **Stack:** Go · Python · Swift · Kubernetes · OpenShift · Containers · Claude Code
