@@ -30,11 +30,11 @@ Archived: [Polyphon](https://coreydaley.dev/projects/polyphon/) (multi-model AI 
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Checksum files in the App Sandbox: why Photos.sha256, not Photos.zip.sha256](https://coreydaley.dev/posts/2026/11/checksum-files-in-the-app-sandbox/)
 - [Read job postings even when you&#39;re not looking for a job](https://coreydaley.dev/posts/2026/11/keep-your-skills-relevant-read-job-postings/)
 - [I asked an agent to make a cartoon in Moho](https://coreydaley.dev/posts/2026/11/agent-animated-moho-cartoon/)
 - [I chose Electron for cross-platform and shipped Mac-only](https://coreydaley.dev/posts/2026/11/native-apple-apps-vs-electron/)
 - [Asking an archive questions without the archiver doing AI](https://coreydaley.dev/posts/2026/11/ask-an-archive-without-the-archiver-doing-ai/)
-- [Inside ArchiveKit: no format registry, just the compiler](https://coreydaley.dev/posts/2026/10/how-archivekit-is-built/)
 <!-- BLOG-POST-LIST:END -->
 
 **Stack:** Go · Python · Swift · Kubernetes · OpenShift · Containers · Claude Code
