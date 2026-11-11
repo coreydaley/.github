@@ -30,11 +30,11 @@ Archived: [Polyphon](https://coreydaley.dev/projects/polyphon/) (multi-model AI 
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple&#39;s on-device model vs Llama 3.2 3B on the same Mac](https://coreydaley.dev/posts/2026/11/apples-on-device-model-vs-llama/)
 - [Can a tool teach Apple&#39;s on-device model tic-tac-toe?](https://coreydaley.dev/posts/2026/11/tool-calling-tic-tac-toe/)
 - [I mounted a ZIP from a sandboxed Mac app with FSKit, and I&#39;m not shipping it](https://coreydaley.dev/posts/2026/11/mounting-a-zip-with-fskit-and-not-shipping-it/)
 - [What Apple&#39;s on-device model is actually good at](https://coreydaley.dev/posts/2026/11/what-apples-on-device-model-is-good-at/)
 - [PAR2 from the spec: CRC32 finds the damage, MD5 proves the repair](https://coreydaley.dev/posts/2026/11/par2-recovery-records-from-the-spec/)
-- [Apple&#39;s on-device model, Claude and GPT play Wordle and tic-tac-toe](https://coreydaley.dev/posts/2026/11/apple-models-play-games/)
 <!-- BLOG-POST-LIST:END -->
 
 **Stack:** Go · Python · Swift · Kubernetes · OpenShift · Containers · Claude Code
