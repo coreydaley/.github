@@ -27,6 +27,13 @@ Staff Software Engineer at [Chainguard](https://www.chainguard.dev), working on 
 
 Archived: [Polyphon](https://coreydaley.dev/projects/polyphon/) (multi-model AI chat) and [Attractor](https://coreydaley.dev/projects/attractor/) (DOT-graph AI pipelines).
 
+## Roadmaps
+
+| | |
+| --- | --- |
+| [**AI Practice Roadmap**](https://github.com/coreydaley/.github/blob/main/AI-Practice-Roadmap.md) | The path I'm on: building with models and around them (evals, agent security, context engineering, orchestration), learned by shipping. |
+| [**AI/ML Learning Roadmap**](https://github.com/coreydaley/.github/blob/main/AI-ML-Learning-Roadmap.md) | The path I set aside: a 12-month curriculum for learning how models are trained. Still there if training is what you're after. |
+
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
