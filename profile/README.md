@@ -37,11 +37,11 @@ Archived: [Polyphon](https://coreydaley.dev/projects/polyphon/) (multi-model AI 
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Taking libarchive&#39;s security fixes without losing my patches](https://coreydaley.dev/posts/2026/11/updating-a-patched-libarchive/)
 - [Testing Purrchiver&#39;s Shortcuts actions through the system](https://coreydaley.dev/posts/2026/11/testing-shortcuts-actions-through-the-system/)
 - [What Purrchiver&#39;s first 50 downloads taught me](https://coreydaley.dev/posts/2026/11/purrchiver-first-50-downloads/)
 - [I blamed the SD card, then I turned off the encryption](https://coreydaley.dev/posts/2026/11/blamed-the-sd-card-encryption/)
 - [Translating Purrchiver with agents, and no native speaker](https://coreydaley.dev/posts/2026/11/translating-purrchiver-with-agents/)
-- [Designing App Store screenshots that don&#39;t need updating every release](https://coreydaley.dev/posts/2026/11/app-store-screenshots-that-last/)
 <!-- BLOG-POST-LIST:END -->
 
 **Stack:** Go · Python · Swift · Kubernetes · OpenShift · Containers · Claude Code
