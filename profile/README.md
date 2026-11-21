@@ -37,11 +37,11 @@ Archived: [Polyphon](https://coreydaley.dev/projects/polyphon/) (multi-model AI 
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Secret Store 1.2 is here: free, and on iPhone and iPad](https://coreydaley.dev/posts/2026/11/secret-store-1-2/)
 - [A StoreKit unlock while the app is still launching](https://coreydaley.dev/posts/2026/11/storekit-unlock-while-the-app-launches/)
 - [Taking libarchive&#39;s security fixes without losing my patches](https://coreydaley.dev/posts/2026/11/updating-a-patched-libarchive/)
 - [Testing Purrchiver&#39;s Shortcuts actions through the system](https://coreydaley.dev/posts/2026/11/testing-shortcuts-actions-through-the-system/)
 - [What Purrchiver&#39;s first 50 downloads taught me](https://coreydaley.dev/posts/2026/11/purrchiver-first-50-downloads/)
-- [I blamed the SD card, then I turned off the encryption](https://coreydaley.dev/posts/2026/11/blamed-the-sd-card-encryption/)
 <!-- BLOG-POST-LIST:END -->
 
 **Stack:** Go · Python · Swift · Kubernetes · OpenShift · Containers · Claude Code
