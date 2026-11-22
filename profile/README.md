@@ -37,11 +37,11 @@ Archived: [Polyphon](https://coreydaley.dev/projects/polyphon/) (multi-model AI 
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [An Apple Encrypted Archive that isn&#39;t encrypted](https://coreydaley.dev/posts/2026/11/aea-profile-0-signed-not-encrypted/)
 - [When Claude&#39;s cyber safeguard blocked my own security research](https://coreydaley.dev/posts/2026/11/claude-cyber-safeguard-blocked-my-research/)
 - [Xcode is moving from .xip to .aea](https://coreydaley.dev/posts/2026/11/xcode-is-moving-to-aea/)
 - [Secret Store 1.2 is here: free, and on iPhone and iPad](https://coreydaley.dev/posts/2026/11/secret-store-1-2/)
 - [A StoreKit unlock while the app is still launching](https://coreydaley.dev/posts/2026/11/storekit-unlock-while-the-app-launches/)
-- [Taking libarchive&#39;s security fixes without losing my patches](https://coreydaley.dev/posts/2026/11/updating-a-patched-libarchive/)
 <!-- BLOG-POST-LIST:END -->
 
 **Stack:** Go · Python · Swift · Kubernetes · OpenShift · Containers · Claude Code
